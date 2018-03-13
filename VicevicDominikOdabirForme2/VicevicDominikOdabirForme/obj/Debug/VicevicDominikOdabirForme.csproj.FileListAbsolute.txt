@@ -1,0 +1,11 @@
+C:\Users\Učenik\source\repos\VicevicDominikOdabirForme\VicevicDominikOdabirForme\bin\Debug\VicevicDominikOdabirForme.exe.config
+C:\Users\Učenik\source\repos\VicevicDominikOdabirForme\VicevicDominikOdabirForme\bin\Debug\VicevicDominikOdabirForme.exe
+C:\Users\Učenik\source\repos\VicevicDominikOdabirForme\VicevicDominikOdabirForme\bin\Debug\VicevicDominikOdabirForme.pdb
+C:\Users\Učenik\source\repos\VicevicDominikOdabirForme\VicevicDominikOdabirForme\obj\Debug\VicevicDominikOdabirForme.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\VicevicDominikOdabirForme\VicevicDominikOdabirForme\obj\Debug\VicevicDominikOdabirForme.Form1.resources
+C:\Users\Učenik\source\repos\VicevicDominikOdabirForme\VicevicDominikOdabirForme\obj\Debug\VicevicDominikOdabirForme.Form2.resources
+C:\Users\Učenik\source\repos\VicevicDominikOdabirForme\VicevicDominikOdabirForme\obj\Debug\VicevicDominikOdabirForme.Properties.Resources.resources
+C:\Users\Učenik\source\repos\VicevicDominikOdabirForme\VicevicDominikOdabirForme\obj\Debug\VicevicDominikOdabirForme.csproj.GenerateResource.Cache
+C:\Users\Učenik\source\repos\VicevicDominikOdabirForme\VicevicDominikOdabirForme\obj\Debug\VicevicDominikOdabirForme.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\VicevicDominikOdabirForme\VicevicDominikOdabirForme\obj\Debug\VicevicDominikOdabirForme.exe
+C:\Users\Učenik\source\repos\VicevicDominikOdabirForme\VicevicDominikOdabirForme\obj\Debug\VicevicDominikOdabirForme.pdb
